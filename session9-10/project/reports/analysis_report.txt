@@ -1,0 +1,28 @@
+========== File Analysis Report ==========
+
+Folder path: F:/fanavari/Fanavari/session9-10/project
+Total files: 6
+Total size: 0 KB
+Average file size: 0.00 KB
+
+---------- File Details ----------
+data.csv: 1 KB
+image.jpg: 32 KB
+main.py: 6 KB
+report.pdf: 191 KB
+reports: 0 KB
+users.txt: 4 KB
+
+---------- Largest File ----------
+data.csv: 0 KB
+
+---------- Smallest File ----------
+data.csv: 0 KB
+
+---------- File Counts by Extension ----------
+.csv: 1
+.jpg: 1
+.py: 1
+.pdf: 1
+: 1
+.txt: 1
